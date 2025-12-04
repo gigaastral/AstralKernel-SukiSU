@@ -66,3 +66,17 @@ If you like this kernel, consider giving a **star** ⭐ to the repository to sup
 Also, if you want to support the project, consider donating any ammount that you want here: https://buymeacoffee.com/gigaastral
 
 ---
+
+## 📜 Credits & Copyright
+
+SUSFS © Simonpunk
+License: GPLv2
+Source: https://gitlab.com/simonpunk/susfs4ksu/
+SukiSU-Ultra © SukiWang
+License: GPLv2
+Source: https://github.com/SukiSU-Ultra/SukiSU-Ultra
+AnyKernel3 © osm0sis
+License: GPLv3
+Source: https://github.com/osm0sis/AnyKernel3
+Samsung Kernel Source © Samsung Electronics
+License: GPLv2
